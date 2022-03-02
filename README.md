@@ -6,6 +6,7 @@ My name is Sami Abdulhadi and I love any and all things related to data, music a
 🎼 Favorite band: Polyphia <br />
 🛹 Favorite skateboard brand: Toy Machine <br />
 🌱 Favorite restaurant: No Bones Beach Club (Chicago) <br />
+👻 Favorite holiday: Halloween <br />
 💻 Favorite programming language: Python <br />
 🕸️ Favorite IDE: Spyder <br />
-👻 Favorite holiday: Halloween <br />
+🐘 Favorite RDBMS: PostgreSQL
