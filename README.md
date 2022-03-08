@@ -1,6 +1,6 @@
 Hi there!
 
-My name is Sami Abdulhadi and I love any and all things related to data, music and skateboarding! I am currently a Data Analyst looking to build my skills and transition to data engineering. <br />
+My name is Sami Abdulhadi and I love any and all things related to data, music and skateboarding! I am currently a Data Analyst looking to build my coding skills! <br />
 
 🎸 Favorite guitar brand: Ibanez <br />
 🛹 Favorite skateboard brand: Toy Machine <br />
